@@ -283,5 +283,4 @@ For questions or support:
 
 ---
 
-**Built with ❤️ for the Smart Office Challenge**#   Y o l o v 8 T r a i n  
- 
+**Built with ❤️ for the Smart Office Challenge**
